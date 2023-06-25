@@ -9,7 +9,11 @@ This project involves inspecting the fetal health dataset (https://www.kaggle.co
 - SVM
 
 
+* Flaredown exploratory data analysis (EDA)
 
+I wanted to do this project as practice for working with data that may not necessarily be nicely defined, or one that doesn't have a clear path on how to explore the analyse the data. In research, I am used to defining the research question, designing and programming the tasks, collecting the data that I know I will need to answer the research question(s) at hand. However, when working for a company, I may be presented with some pre-existing data and need to gather insights about a particular research question. 
+
+ This project is practice for this type of scenario. 
 
 
 
