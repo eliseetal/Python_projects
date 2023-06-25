@@ -9,3 +9,19 @@ This project involves inspecting the fetal health dataset (https://www.kaggle.co
 - SVM
 
 
+
+
+
+
+
+
+# Other notebooks: 
+
+
+* RDM_figures 
+
+Notebook I made for creating matrix plots depicting "representational dissimilarity matrices" used in representational similarity analysis. To see the plots in context, visit https://eliseetal.github.io/RSA-blog-post.html 
+
+
+
+
